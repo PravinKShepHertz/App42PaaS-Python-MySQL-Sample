@@ -62,11 +62,11 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 		'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'sample',                      # Or path to database file if using sqlite3.
-        'USER': 'root',                      # Not used with sqlite3.
-        'PASSWORD': '',                  # Not used with sqlite3.
-        'HOST': '127.0.0.1',                      # Set to empty string for localhost. Not used with sqlite3.
-        'PORT': '3306',                      # Set to empty string for default. Not used with sqlite3.
+        'NAME': 'demo_db',                      # Or path to database file if using sqlite3.
+        'USER': 'aqfjgj73vsnmddoi',                      # Not used with sqlite3.
+        'PASSWORD': 'acavceal34mvrqy3bry17bsain3gkw16',                  # Not used with sqlite3.
+        'HOST': '54.208.130.57',                      # Set to empty string for localhost. Not used with sqlite3.
+        'PORT': '53653',                      # Set to empty string for default. Not used with sqlite3.
     }
 }
 
