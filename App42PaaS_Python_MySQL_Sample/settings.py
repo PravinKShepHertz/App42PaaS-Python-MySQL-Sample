@@ -65,7 +65,7 @@ DATABASES = {
         'NAME': 'demo_db',                      # Or path to database file if using sqlite3.
         'USER': 'aqeex29u40d2i8l1',                      # Not used with sqlite3.
         'PASSWORD': 'apqfx3tyto2490dy0pzy4eiimptv9wf4',                  # Not used with sqlite3.
-        'HOST': '54.208.130.574',                      # Set to empty string for localhost. Not used with sqlite3.
+        'HOST': '54.208.130.57',                      # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '43666',                      # Set to empty string for default. Not used with sqlite3.
     }
 }
